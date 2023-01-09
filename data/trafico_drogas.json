@@ -1,0 +1,113 @@
+﻿{
+    "Url": "www.epdata.es/espana-registrado-infracciones-trafico-drogas-ultimo-trimestre/db296123-f620-43be-958d-90798c4cacc7/espana/106",
+    "Respuesta": {
+        "Id": "db296123-f620-43be-958d-90798c4cacc7",
+        "Url": "www.epdata.es/espana-registrado-infracciones-trafico-drogas-ultimo-trimestre/db296123-f620-43be-958d-90798c4cacc7/espana/106",
+        "Titulo": "En España se han registrado 14.361 infracciones por tráfico de drogas hasta el trimestre 3 de 2022﻿ ",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Infracciones penales registradas a nivel trimestral - Número de infracciones penales registradas en lo que va de año para tráfico de drogas como tipo de delito registrado y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio del Interior",
+                    "Clasificacion": null,
+                    "Unidad": "Número de infracciones penales registradas en lo que va de año",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 11379,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 11093,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 10440,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 9415,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 9610,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 10114,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 10835,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 12693,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 12652,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 13962,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 14361,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

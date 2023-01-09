@@ -1,0 +1,113 @@
+﻿{
+    "Url": "www.epdata.es/espana-cometido-asesinatos/e8bd15b3-f8ed-4a67-85ff-102c39d71794/espana/106",
+    "Respuesta": {
+        "Id": "e8bd15b3-f8ed-4a67-85ff-102c39d71794",
+        "Url": "www.epdata.es/espana-cometido-asesinatos/e8bd15b3-f8ed-4a67-85ff-102c39d71794/espana/106",
+        "Titulo": "En España se han cometido 237 asesinatos hasta el trimestre 3 de 2022",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Infracciones penales registradas a nivel trimestral - Número de infracciones penales registradas en lo que va de año para homicidios dolosos y asesinatos consumados como tipo de delito registrado y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio del Interior",
+                    "Clasificacion": null,
+                    "Unidad": "Número de infracciones penales registradas en lo que va de año",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 275,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 246,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 239,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 214,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 229,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 236,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 228,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 249,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 232,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 208,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Trimestre 3",
+                            "Parametro": "Trimestre 3",
+                            "Valor": 237,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

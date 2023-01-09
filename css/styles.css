@@ -1,0 +1,111 @@
+html{
+    height:100%;
+    width: 100%;
+}
+body{
+    height:100%;
+    width: 100%;
+    background-color: rgb(241, 241, 241);
+}
+.sin_padding{
+    margin: 0px;
+    padding: 0px;
+}
+
+.centrado{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#marco{
+    display: grid;
+    height:100%;
+}
+
+th{ font-size: 0.75rem;}
+td{ font-size: 0.6rem;}
+
+.navbar{
+    border-bottom: 1px solid #b8f3ec;
+}
+
+.navegador{
+    background: #A5F1E9;
+    padding-right: 2px;
+}
+
+.menu{
+    background: #A5F1E9;
+    padding: 0px;
+    margin: 0px;
+    border:none;
+    border-radius: 0px;
+}
+.tituloGrafica{
+    padding-top: 1rem;
+    width: 80%;
+    height: 2rem;
+}
+.tick{
+    width: 20px;
+    word-wrap: normal;
+}
+.tick line{
+    stroke-dasharray: 5,10;
+    color: rgba(94, 94, 94, 0.637);
+}
+.tituloGrafica h3{
+    text-align: center;
+    font-size: 0.8rem;
+    word-wrap: normal;
+}
+
+.dropdown-item{
+    color: aliceblue;
+    --bs-dropdown-link-hover-bg: #8ac9c2;
+    --bs-dropdown-link-hover-color: aliceblue;
+    --bs-dropdown-link-active-bg:#ccc;
+}
+
+
+.btn{
+    --bs-btn-border-color:none;
+}
+
+.centrado-vertical{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.ventana{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.input-group-text, .form-select {
+    font-size: 0.8rem;
+    padding: 0.1rem 0.3rem;
+}
+.grafica{
+    margin: 0px;
+    padding: 0px;
+}
+.grafica{
+    height: auto
+}
+.fig{
+    background-color: white;
+    color: rgb(124, 122, 122);
+}
+.year{
+    font-size:5vh;
+}
+rect{
+    opacity: 0.8;
+}
+.grupo{
+    fill: aliceblue;
+    stroke: azure;
+}
+.bg{
+    fill: rgb(236, 236, 236);
+    stroke: black;
+}
